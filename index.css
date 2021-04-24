@@ -33,11 +33,23 @@ html,body{
 
 .wrapper .form-container{
     width: 100%;
+    
+    
+}
+
+.form-container .form-inner{
+    display: flex;
+    width: 200%;
 }
 
 .form-container .form-inner form{
-
+    width: 50%;
 }
+
+
+
+
+
 
 .form-inner form .field{
     height: 50px;
@@ -56,7 +68,7 @@ html,body{
     border-bottom-width: 2px;
 }
 
-form .field input[type="submit"]{
+form .field input[type="submit"]{ /*  button desing */
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -66,6 +78,7 @@ form .field input[type="submit"]{
     background: rgb(0,128,0)
     
 }
+
 
 
 
