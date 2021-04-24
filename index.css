@@ -57,8 +57,15 @@ html,body{
 }
 
 form .field input[type="submit"]{
- 
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 0px;
+    border: none;
+    cursor: pointer;
     background: rgb(0,128,0)
-
+    
 }
+
+
 
