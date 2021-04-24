@@ -58,6 +58,7 @@ html,body{
 
 form .field input[type="submit"]{
  
-    background: (left, #51bb47 , #fa4299);
+    background: rgb(0,128,0)
+
 }
 
